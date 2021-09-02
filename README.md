@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elton de campos</h1>
-<h3 align="center">I started wanting to program after going to a cybersec event called Roadsec, that's where I bought my first python pentesting book. Some time later I decided to go with everything, but first with HTML / CSS and JS technologies, but now a few months later I am learning nodeJS | JS | TS and React and I intend to learn python because it is the language that made me want to learn to program.</h3>
+<h3 align="center">I'm currently Frontend developer foscused on Reactjs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eltoncampos1&label=Profile%20views&color=0e75b6&style=flat" alt="eltoncampos1" /> </p>
 
