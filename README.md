@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elton de campos</h1>
-<h3 align="center">I'm currently Fullstack developer foscused on Reactjs/nodejs</h3>
+<h3 align="center">I'm currently Fullstack developer foscused on Reactjs, nodejs and Elixir</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eltoncampos1&label=Profile%20views&color=0e75b6&style=flat" alt="eltoncampos1" /> </p>
 
