@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Elton </h1>
-<h3 align="center">I'm currently Fullstack developer foscused on Elixir </h3>
+<h3 align="center">I'm currently Fullstack developer foscused in Elixir and Nodejs</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eltoncampos1&label=Profile%20views&color=0e75b6&style=flat" alt="eltoncampos1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eltoncampos1" alt="eltoncampos1" /></a> </p>
 
-- I’m currently working with **Elixir**
+- I’m currently working with **Elixir** and **NodeJS**
 - I’m Learning **Rust**
 
 <h3 align="left">Connect with me:</h3>
