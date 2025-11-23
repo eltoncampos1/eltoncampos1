@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Elton </h1>
-<h3 align="center">I'm currently Backend developer focused in Elixir</h3>
+<h3 align="center">I'm currently Backend developer focused in Elixir and Golang</h3>
 <h3 align="center">I'm a rust enthusiast</h3>
 
 
-- I’m currently working with **Elixir**
+- I’m currently working with **Elixir** and **GO**
 - I’m Learning **Rust**
 
 <h3 align="left">Connect with me:</h3>
